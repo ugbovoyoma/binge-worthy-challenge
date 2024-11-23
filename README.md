@@ -29,8 +29,8 @@ From your analysis, answer the following questions:
 ### Timeline
 
 - **Challenge Release:** Friday, 22nd November, 2024
-- **Submission Deadline:** Sunday, 24th November, 2024
-- **Winner Announcement:** Monday, 25th November, 2024
+- **Submission Deadline:** Monday, 25th November, 2024 (11:59 PM)
+- **Winner Announcement:** Someday between Tuesday and Thursday depending on the number of submissions.
 
 ### Evaluation Criteria
 
